@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ExperimentEscaped
 - 👀 I’m interested in Web and Game Development basically anything that involves making something =D
-- 🌱 I’m currently learning Javascript and Python and a Bit of CSS
-- 💞️ I’m looking to collaborate on Nothing Curently o I'll keep on dreaming abut what that is.
+- 🌱 I’m currently learning Javascript and Python and a small amount of CSS
+- 💞️ I’m looking to collaborate on Nothing Currently and I'll keep working on my studies.
 - 📫 How to reach me michaelhotmail1992@gmail.com
 
 <!---
